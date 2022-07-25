@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vitorfigueira8@gmail.com**
 
-- ⚡ Fun fact **Love Gym!**
+- ⚡ Fun fact **love gym and anime!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
