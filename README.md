@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorcf10&label=Profile%20views&color=0e75b6&style=flat" alt="vitorcf10" /> </p>
 
-- 🌱 I’m currently learning **Learning computer engineering**
+- 🌱 I’m currently learning **computer engineering**
 
 - 📫 How to reach me **vitorfigueira8@gmail.com**
 
