@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vitorfigueira8@gmail.com**
 
-- ⚡ Fun fact **Love Gym!**
+- ⚡ Topics of interest: **databases, AI and information security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
