@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vitor-figueira-378307207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-figueira-378307207" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/vitor-figueira-378307207](https://www.linkedin.com/in/vitor-caligaris-figueira-378307207/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-figueira-378307207" height="30" width="40" /></a>
 <a href="https://instagram.com/vitorfigueira50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vitorfigueira50" height="30" width="40" /></a>
 </p>
 
