@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vitorfigueira8@gmail.com**
 
-- ⚡ Topics of interest: **databases, big data and AI**
+- ⚡ Topics of interest: **Software Engineering, Data Engineering, Machine Learning and Cyber Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
